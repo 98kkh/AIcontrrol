@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=강현이네%20깃허브&fontSize=90)
+
+
 # AIcontrrol
 
 ## 나의 첫 번째 마크다운 파일입니다.
